@@ -1,6 +1,6 @@
 # vk_annoying_mentions
 
-do you get annoyed of hundreds and hundreds '@all', '@online', '@everyone' mentions? well, this bot will help remind the sender of such mentions that he is doing bad things
+Do you get annoyed of hundreds and hundreds '@all', '@online', '@everyone' mentions? Well, this bot will help remind the sender of such mentions that he is doing bad things
 
 ## Usage
 
@@ -14,7 +14,7 @@ FROM_ID : int = <id of the user from whom messages will be processed, 0 if from 
 PEER_ID : int = <id of the chat from which messages will be processed >
 ```
 
-this bot has a dependency on VKBottle, so you need install it before all:
+This bot has a dependency on VKBottle, so you need install it before all:
 
 ```
 pip install vkbottle
